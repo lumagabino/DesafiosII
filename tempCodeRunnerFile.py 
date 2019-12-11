@@ -1,0 +1,2 @@
+maxDist = max(last, size-first)
+        print(maxDist*2)

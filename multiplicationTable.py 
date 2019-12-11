@@ -1,0 +1,11 @@
+n = int(input())
+
+matrix = [] 
+for i in range(n):           
+    matrix.append([int(x) for x in input().split()])
+
+a1 = matrix[1]
+a2 =
+a3 = 
+
+

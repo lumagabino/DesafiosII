@@ -1,0 +1,9 @@
+t = int(input())
+for i in range(t):
+    array = input()
+    if(len(array)>10):
+        string = array[0]+str(len(array)-2)+array[-1]
+        print(string)
+    else:
+        print(array)
+
